@@ -29,3 +29,11 @@ Even for the aggregate of more than 10^13 cells that form a human body, **the wh
 ### All cells store their hereditary information in the same linear chemical code: DNA  
 
 Living cells, like computers, store information. All living cells on Earth store their hereditary information in the form of double-standard molecules of DNA - long, unbranched, paired polymer chains, formed always of the same four types of monomers. These monomers, chemical compounds known as nucleotides, have nicknames drawn from a four-letter alphabet - A, T, C, G - and they are strung together in a long linear sequence that encodes the genetic information, just as the sequence of 1s and 0s encodes the information in a computer file. We can take a piece of DNA from a human cell and insert it into a bacterium, or a piece of bacterial DNA and insert it into a human cell, and the information will be successfully read, interpreted, and copied. Using chemical methods, scientists have learned how to read out the complete sequence of monomers in any DNA molecule - extending for many millions of nucleotides - and thereby decipher all of the hereditary information that each organism contains.
+
+### All cells replicate their hereditary information by templated polymerization
+
+The mechanisms that make life possible depend on the structure of the double-standard DNA molecule. Each monomer in a single DNA strand - that is, each nucleotide - consists of two parts: a sugar (deoxyribose) with a phosphate group attached to it, and a base, which may be either adenine (A), guanine (G), cytosine (C), or thymine (T).   
+
+![DNA](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-2.png)  
+
+
