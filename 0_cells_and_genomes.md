@@ -1,8 +1,8 @@
 # Cells and Genomes  
 
-* The universal features of cells on Earth  
-* The diversity of genomes and the tree of life  
-* Genetic information in eukaryotes  
+* **The universal features of cells on Earth**  
+* **The diversity of genomes and the tree of life**  
+* **Genetic information in eukaryotes**  
 
 The surface of our planet is populated by living things - curious, intricately organized chemical factories that take in matter from their surroundings and use these raw materials to generate copies of themselves.   
 
