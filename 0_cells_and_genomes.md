@@ -58,7 +58,7 @@ In different types of cells, this process of _DNA replication_ occurs at differe
 
 To carry out its information-bearing function, DNA must do more than copy itself. It must also express its information, by letting the information guide the synthesis of other molecules in the cell. This expression occurs by a mechanism that is the same in all living organisms, leading first and foremost to the production of two other key classes of polymers: RNAs and proteins. The process begins with a templated polymerization called _transcription_, in which segments of the DNA sequence are used as templates for the synthesis of shorter molecules of the closely related polymer ribonucleic acid, or RNA. Later, in the more complex process of translation, many of these RNA molecules direct the synthesis of polymers of a radically different chemical class - the proteins.  
 
-![HSPH - Protein](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)  
+[HSPH - Protein](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)  
 
 ![From DNA to protein](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-4.png)  
 
