@@ -45,3 +45,11 @@ The mechanisms that make life possible depend on the structure of the double-str
 (D) A normal DNA molecule consists of two such complementary strands. The nucleotides within each strand are linked by strong (covalent) chemical bonds/ the complementary nucletides on opposite strands are held together more weakly, by hydrogen bonds.  
 
 (E) The two strands twist around each other to form a double helix - a robust structure that can accommodate any sequence of nucleotides without altering its basic structure.  
+
+The bonds between the base pairs are weak compared with the sugar-phosphate links, and this allows the two DNA strands to be pulled apart without breakage of their backbones. Each strand then can serve as a template for the synthesis of a fresh DNA strand complementary to itself - a fresh copy, that is, of the hereditary information.   
+
+![The copying of genetic information by DNA replication](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-3.png)  
+
+The two strands of a DNA double helix are pulled apart, and each serves as a template for synthesis of a new complementary strand.  
+
+In different types of cells, this process of _DNA replication_ occurs at different rates, with different controls to start it or stop it, and different auxiliary molecules to help it along. But the basics are universal: **DNA is the information store for heredity, and templated polymerization is the way in which this information is copied throughtout the living world.**
