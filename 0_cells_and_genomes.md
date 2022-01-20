@@ -64,6 +64,19 @@ To carry out its information-bearing function, DNA must do more than copy itself
 
 Genetic information is read out and put to use through a two-step process. First, in transcription, segments of the DNA sequence are used to guide the synthesis of molecules of RNA. Then, in translation, the RNA molecules are used to guide the synthesis of molecules of protein.
 
+In RNA, the backbone is formed of a slightly different sugar from that of DNA - ribose instead of deoxyribose - and one of the four bases is slightly different - uracil (U) in place of thymine (T). But the other three bases - A, C, and G - are the same, and all four bases pair with their complementary counterparts in DNA - the A, U, C, and G of RNA with the T, A, G, and C of DNA. During transciption, the RNA monomers are lined up and selected for polymerization on a template strand of DNA, just as DNA monomers are selected during replication. The outcome is a polymer molecule whose sequence of nucleotides faithfully represents a portion of the cell's genetic information, even though it is written in a slightly different alphabet - consisting of RNA monomers instead of DNA monomers.  
 
+The same segment of DNA can be used repeatedly to guide the synthesis of many identical RNA molecules. Thus, whereas the cell's archive of genetic information in the form of DNA is fixed and sacrosanct, these RNA transcripts are mass-produced and disposable. These transcripts function as intermediates in the transfer of genetic information. Most notably, they serve as _messenger RNA (mRNA)_ molecules that guide the synthesis of proteins according to the genetic instructions stored in the DNA.  
 
+![How genetic information is broadcast for use inside the cell](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-5.png)  
+
+Each cell contains a fixed set of DNA molecules - its archive of genetic information. A given segment of this DNA guides the synthesis of many identical RNA transcripts, which serve as working copies of the information stored in the archive. Many different sets of RNA molecules can be made by transcribing different parts of a cell's DNA sequences, allowing different types of cells to use the same information store differently.  
+
+RNA molecules have distinctive structures that can also give them other specialized chemical capabilities. Being single-stranded, their backbone is flexible, so that the polymer chain can bend back on itself to allow one part of the molecule to form weak bonds with another part of the same molecule. This occurs when segments of the sequence are locally complementary: a ...GGGG... segment, for example, will tend to associate with a ...CCCC... segment. These types of internal associations can cause an RNA chain to fold up into a specific shape that is dictated by its sequence. The shape of the RNA molecule, in turn, may enable it to recognize other molecules by binding to them selectively - and even, in certain cases, to catalyze chemical changes in the molecules that are bound. 
+
+![The conformation of an RNA molecule](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-6.png)  
+
+(A) Nucleotide pairing between different regions of the same RNA polymer chain causes the molecule to adopt a distinctive shape.  
+
+(B) The three-dimensional structure of an actual RNA molecule produced by hepatitis delta virus; this RNA can catalyze RNA strand cleavage. The blue ribbon represents the sugar-phosphate backbone and the bars represent base pairs.
 
