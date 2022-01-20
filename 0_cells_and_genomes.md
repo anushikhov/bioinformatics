@@ -80,3 +80,15 @@ RNA molecules have distinctive structures that can also give them other speciali
 
 (B) The three-dimensional structure of an actual RNA molecule produced by hepatitis delta virus; this RNA can catalyze RNA strand cleavage. The blue ribbon represents the sugar-phosphate backbone and the bars represent base pairs.
 
+
+### All cells use proteins as catalysts  
+
+Protein molecules, like DNA and RNA molecules, are long unbranched polymer chains, formed by stringing together monomeric building blocks drawn from a standard repertoire that is the same for all living cells. Porteins also carry information in the form of a linear sequence of symbols. There are many different protein molecules in each cell, and - leaving out the warer - they form most of the cell's mass.   
+
+The monomers of protein, the amino acids, are quite different from those of DNA and RNA, and there are 20 types instead of 4. Each amino acid is built around the same core structure through which it can be linked in a standard way to any other amino acid in the set; attached to this core is a side group that gives each amino acid a distinctive chemical character. Each of the protein molecules is a polypeptide, created by joining its amino acids in a particular sequence. Through billions of years of evolution, this sequence has been selected to give the protein a useful function. Thus, by folding into a precise three-dimensional form with reactive sites on its surface, these amino-acid polymers can bind with high specificity to other molecules and can act as enzymes to catalyze reactions that make or break covalent bonds. In this way they direct the vast majority of chemical processes in the cell.
+
+![How a protein molecule acts as a catalyst for a chemical reaction](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-7.png)  
+
+Proteins have many other functions as well - maintaining structures, generating movements, sensing signals, and so on - each protein molecule performing a specific function according to its own genetically specified sequence of amino acids. Proteins, above all, are the main molecules that put the cell's genetic information into action.  
+
+Thus, polynucleotides specify the amino acid sequence of proteins. Proteins, in turn, catalyze many chemical reactions, including those by which new DNA molecules are synthesized. From the most fundamental point of view, a living cell is a self-replicating collection fo catalysts that takes in food, processes this food to derive both the building blocks and energy needed to make more catalysts, and discards the materials left over as waste. A feedback loop that connects proteins and polynucleotides forms the basis for thsi autocatalytic, self-reproducing behavior of living organisms.
