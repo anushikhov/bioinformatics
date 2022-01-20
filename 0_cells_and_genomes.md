@@ -53,3 +53,17 @@ The bonds between the base pairs are weak compared with the sugar-phosphate link
 The two strands of a DNA double helix are pulled apart, and each serves as a template for synthesis of a new complementary strand.  
 
 In different types of cells, this process of _DNA replication_ occurs at different rates, with different controls to start it or stop it, and different auxiliary molecules to help it along. But the basics are universal: **DNA is the information store for heredity, and templated polymerization is the way in which this information is copied throughtout the living world.**
+
+### All cells transcribe portions of their hereditary information into the same intermediary form: RNA  
+
+To carry out its information-bearing function, DNA must do more than copy itself. It must also express its information, by letting the information guide the synthesis of other molecules in the cell. This expression occurs by a mechanism that is the same in all living organisms, leading first and foremost to the production of two other key classes of polymers: RNAs and proteins. The process begins with a templated polymerization called _transcription_, in which segments of the DNA sequence are used as templates for the synthesis of shorter molecules of the closely related polymer ribonucleic acid, or RNA. Later, in the more complex process of translation, many of these RNA molecules direct the synthesis of polymers of a radically different chemical class - the proteins.  
+
+![HSPH - Protein](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)  
+
+![From DNA to protein](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-4.png)  
+
+Genetic information is read out and put to use through a two-step process. First, in transcription, segments of the DNA sequence are used to guide the synthesis of molecules of RNA. Then, in translation, the RNA molecules are used to guide the synthesis of molecules of protein.
+
+
+
+
