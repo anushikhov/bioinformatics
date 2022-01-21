@@ -83,7 +83,7 @@ RNA molecules have distinctive structures that can also give them other speciali
 
 ### All cells use proteins as catalysts  
 
-Protein molecules, like DNA and RNA molecules, are long unbranched polymer chains, formed by stringing together monomeric building blocks drawn from a standard repertoire that is the same for all living cells. Porteins also carry information in the form of a linear sequence of symbols. There are many different protein molecules in each cell, and - leaving out the warer - they form most of the cell's mass.   
+Protein molecules, like DNA and RNA molecules, are long unbranched polymer chains, formed by stringing together monomeric building blocks drawn from a standard repertoire that is the same for all living cells. Porteins also carry information in the form of a linear sequence of symbols. There are many different protein molecules in each cell, and - leaving out the water - they form most of the cell's mass.   
 
 The monomers of protein, the amino acids, are quite different from those of DNA and RNA, and there are 20 types instead of 4. Each amino acid is built around the same core structure through which it can be linked in a standard way to any other amino acid in the set; attached to this core is a side group that gives each amino acid a distinctive chemical character. Each of the protein molecules is a polypeptide, created by joining its amino acids in a particular sequence. Through billions of years of evolution, this sequence has been selected to give the protein a useful function. Thus, by folding into a precise three-dimensional form with reactive sites on its surface, these amino-acid polymers can bind with high specificity to other molecules and can act as enzymes to catalyze reactions that make or break covalent bonds. In this way they direct the vast majority of chemical processes in the cell.
 
@@ -91,4 +91,17 @@ The monomers of protein, the amino acids, are quite different from those of DNA 
 
 Proteins have many other functions as well - maintaining structures, generating movements, sensing signals, and so on - each protein molecule performing a specific function according to its own genetically specified sequence of amino acids. Proteins, above all, are the main molecules that put the cell's genetic information into action.  
 
-Thus, polynucleotides specify the amino acid sequence of proteins. Proteins, in turn, catalyze many chemical reactions, including those by which new DNA molecules are synthesized. From the most fundamental point of view, a living cell is a self-replicating collection fo catalysts that takes in food, processes this food to derive both the building blocks and energy needed to make more catalysts, and discards the materials left over as waste. A feedback loop that connects proteins and polynucleotides forms the basis for thsi autocatalytic, self-reproducing behavior of living organisms.
+Thus, polynucleotides specify the amino acid sequence of proteins. Proteins, in turn, catalyze many chemical reactions, including those by which new DNA molecules are synthesized. **From the most fundamental point of view, a living cell is a self-replicating collection of catalysts that takes in food, processes this food to derive both the building blocks and energy needed to make more catalysts, and discards the materials left over as waste.** A feedback loop that connects proteins and polynucleotides forms the basis for this autocatalytic, self-reproducing behavior of living organisms.
+
+
+### All cells translate RNA into protein the same way  
+
+The translation of genetic information from the 4-letter alphabet of polynucleotides into the 20-letter alphabet of proteins is a complex process. The information in the sequence of a messenger RNA molecule is read out in groups of three nucleotides at a time: each triplet of nucleotides, or _codon_, specifies a single amino acid in a corresponding protein. Since the number of dintinct triplets that can be foremd from four nucleotides is 4^3, there are 64 possible codons, all of which occur in nature. However, there are only 20 naturally occurring amino acids. That means thhere are necessarily many cases in which several codons correspond to the same amino acid. This genetic code is read out by a special class of small RNA molecules, the _transfer RNAs_ (tRNAs). Each type of tRNA becomes attached at one end to a specific amino acid, and displays at its other end a specific sequence of three nucleotides - an anticodon - that enables it to recognize, through base-pairing, a particular codon or subset of codons in mRNA. The intricate chemcistry that enables these tRNAs to translate a specific sequcne of A, C, G, and U nucleotides in an mRNA molecule into a specific sequence of amino acids in a protein molecule occurs on the ribosome, a large multimolecular machine composed of both protein and ribosomal RNA.
+
+![Life as an autocatalytic process](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-8.png)  
+
+(A) The cell as a self-replicating collection of catalysts.
+
+(B) Polynucletides (the nucleic acids DNA and RNA, which are nucletide polymers) provide the sequence information, while proteins (amino acid polymers) provide most of the catalytic functions that serve - through a complex set of chemical reactions - to bring about the synthesis of more polynucleotides and proteins of the same types.  
+
+
