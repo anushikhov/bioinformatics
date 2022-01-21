@@ -123,3 +123,8 @@ Molecules in a cell can be pictured as a swarm of objects endowed with thermal e
 To replicate its genetic information faithfully, and to make all its complex molecules according to the correct specifications, the cell therefore requires free energy, which has to be imported somehow from the surroundings. The free energy required by animal cells is derived from chemical bonds in food molecules that the animals eat, while plants get their free energy from sunlight.  
 
 
+### All cells function as biochemical factories dealing with the same basic molecular building blocks  
+
+Because all cells make DNA, RNA, and protein, all cells have to contain and manipulate a similar collection of small molecules, including simple sugars, nucletides, and amino acids, as well as other substances that are universally required. All cells, for example require the phosphorylated nucleotide ATP (adenosine triphosphate), not only as a building bloack for the synthesis of DNA and RNA, but also as a carrier of the free energy that is needed to drive a huge number of chemical reactions in the cell.  
+
+Although all cells function as biochemical factories of a broadly similar type, many of the details of their small-molecule transactions differ. Some organisms, such as plants, require only the simplest of nutrients and harness the energy of sunlight to make all their own small organic molecules. Other organisms, such as animals, feed on living things and must obtain many of their organic molecules ready-made. 
