@@ -128,3 +128,23 @@ To replicate its genetic information faithfully, and to make all its complex mol
 Because all cells make DNA, RNA, and protein, all cells have to contain and manipulate a similar collection of small molecules, including simple sugars, nucletides, and amino acids, as well as other substances that are universally required. All cells, for example require the phosphorylated nucleotide ATP (adenosine triphosphate), not only as a building bloack for the synthesis of DNA and RNA, but also as a carrier of the free energy that is needed to drive a huge number of chemical reactions in the cell.  
 
 Although all cells function as biochemical factories of a broadly similar type, many of the details of their small-molecule transactions differ. Some organisms, such as plants, require only the simplest of nutrients and harness the energy of sunlight to make all their own small organic molecules. Other organisms, such as animals, feed on living things and must obtain many of their organic molecules ready-made. 
+
+
+### All cells are enclosed in a plasma membrane across which nutrients and waste materials must pass  
+
+Another universal feature is that each cell is enclosed by a plasma membrane. Without a plasma membrane, the cell could not maintain its integrity as a coordinated chemical system. The molecules that form a membrane have the simple physicochemical porperty of being amphiphilic - that is, consisting of one part that is hydrophobic (water-insoluble) and another part that is hydrophilic (water-soluble). Such molecules placed in water aggregate spontaneously, arranging their hydrophobic portions to be as much incontact with one another as possible to hide them from the water, while keeping their hydrophilic portions exposed. Amphiphilic molecules of appropriate shape, such as the phospholipid molecules that comprise most of the plasma membrane, spontaneously aggregate in water to create a bilayer that forms small closed vesicles. 
+
+![Vesicle](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-9.png)  
+
+The phenomenon can be demonstrated in a test tube by simply mixing phospholipids and water together; under appropriate conditions, small vesicles form whose aqueous contents are isolated from the external medium. 
+
+![Formation of a membrane by amphiphilic phospholipid molecules](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-9a.png)  
+
+Phospholipids have a hydrophilic (water-loving, phosphate) head group and a hydrophobic (water-avoiding, hydrocarbon) tail. At an interface between oil and water, they arrange themselves as a single sheet with their head groups facing the water and their tail groups facing the oil. But when immersed in water, they aggregate to form bilayers enclosing aqueous compartments, as indicated. 
+
+Although the chemical details vary, the hydrophobic tails of the predominant membrane molecules in all cells are hydrocarbon polymers (-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-), and their spontaneous assembly into a bilayered vesicle is but one of many examples of an important general principle: **cells produce molecules whose chemical properties cause them to self-assemble into the structures that a cell needs.**  
+
+The cell boundary cannot be totally impermeable. If a cell is to grow and reproduce, it must be able to import raw materials and export waste across its plasma membrane. All cells therefore have specialized proteins embedded in their membrane that transport specific molecules from one side to the other.
+
+The transport proteins in the membrane largely determine which molecules enter the cell, and the catalytic proteins inside the cell determine the reactions that those molecules undergo. Thus, by specifying the proteins that the cell is to manufacture, the genetic information recorded in the DNA sequence dictates the entire chemistry of the cell; and not only its chemistry, but also its form and its behavior, for these too are chiefly constructed and controlled by the cell's proteins.
+
