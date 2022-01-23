@@ -148,3 +148,12 @@ The cell boundary cannot be totally impermeable. If a cell is to grow and reprod
 
 The transport proteins in the membrane largely determine which molecules enter the cell, and the catalytic proteins inside the cell determine the reactions that those molecules undergo. Thus, by specifying the proteins that the cell is to manufacture, the genetic information recorded in the DNA sequence dictates the entire chemistry of the cell; and not only its chemistry, but also its form and its behavior, for these too are chiefly constructed and controlled by the cell's proteins.
 
+
+### A living cell can exist with fewer than 500 genes  
+
+The bacterium Mycoplasma genitalium has one of the smallest known genomes. This organism lives as a parasite in mammals, and its environment provides it with many of its small molecules ready-made. Nevertheless, it still has to make all the large molecules - DNA, RNAs, and proteins - required for the basic processes of heredity. It has about 530 genes, about 400 of which are essential. Its genome of 580,070 nucleotide pairs represents 145,018 bytes of information. 
+
+The minimum number of genes for a viable cell in today's environment is probably not less than 300, although there are only about 60 genes in the core set that is shared by all living species.  
+
+
+
