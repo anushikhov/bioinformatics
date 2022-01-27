@@ -137,7 +137,7 @@ Another universal feature is that each cell is enclosed by a plasma membrane. Wi
 
 The phenomenon can be demonstrated in a test tube by simply mixing phospholipids and water together; under appropriate conditions, small vesicles form whose aqueous contents are isolated from the external medium. 
 
-![Formation of a membrane by amphiphilic phospholipid molecules](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biolog/img/1-9a.png)  
+![Formation of a membrane by amphiphilic phospholipid molecules](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-9a.png)  
 
 Phospholipids have a hydrophilic (water-loving, phosphate) head group and a hydrophobic (water-avoiding, hydrocarbon) tail. At an interface between oil and water, they arrange themselves as a single sheet with their head groups facing the water and their tail groups facing the oil. But when immersed in water, they aggregate to form bilayers enclosing aqueous compartments, as indicated. 
 
