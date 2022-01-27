@@ -34,7 +34,7 @@ Living cells, like computers, store information. All living cells on Earth store
 
 The mechanisms that make life possible depend on the structure of the double-stranded DNA molecule. Each monomer in a single DNA strand - that is, each nucleotide - consists of two parts: a sugar (deoxyribose) with a phosphate group attached to it, and a base, which may be either adenine (A), guanine (G), cytosine (C), or thymine (T). Each sugar is linked to the next via the phosphate group, creating a polymer chain composed of a repetitive sugar-phosphate backbone with a series of bases protruding from it. The DNA polymer is extended by adding monomers at one end. For a single isolated strand, these monomers can, in principle, be added in any order, because each one links to the next in the same way, through the part of the molecule that is the same for all of them. In the living cell, however, DNA is not synthesized as a free strand in isolation, but on a template formed by a preexisting DNA strand. The bases protruding from the existing strand bind to bases of the strand being syntesized, according to a strict rule defined by the complementary structures of the bases: A binds to T, and C binds to G. This base-pairing holds fresh monomers in place and thereby controls the selection of which one of the four monomers shall be added to the growing strand next. In this way, a double-stranded structure is created, consisting of two exactly complementary sequences of As, Cs, Ts, and Gs. The two strands twist around each other, forming a DNA double helix.
 
-![DNA and its building blocks](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-2.png)  
+![DNA and its building blocks](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-2.png)  
 
 (A) DNA is made from simple subunits, called nucleotides, each consisting of a sugar-phosphate molecule with a nitrogen-containing side group, or base, attached to it. The bases are of four types (adenine, guanine, cytosine, and thymine), corresponding to four distinct nucleoides, labeled A, G, C, and T.  
 
@@ -48,7 +48,7 @@ The mechanisms that make life possible depend on the structure of the double-str
 
 The bonds between the base pairs are weak compared with the sugar-phosphate links, and this allows the two DNA strands to be pulled apart without breakage of their backbones. Each strand then can serve as a template for the synthesis of a fresh DNA strand complementary to itself - a fresh copy, that is, of the hereditary information.   
 
-![The copying of genetic information by DNA replication](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-3.png)  
+![The copying of genetic information by DNA replication](https://raw.githubusercontent.com/anushikhov/bioinformatics/molecular-biology/img/1-3.png)  
 
 The two strands of a DNA double helix are pulled apart, and each serves as a template for synthesis of a new complementary strand.  
 
@@ -60,7 +60,7 @@ To carry out its information-bearing function, DNA must do more than copy itself
 
 [HSPH - Protein](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)  
 
-![From DNA to protein](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-4.png)  
+![From DNA to protein](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-4.png)  
 
 Genetic information is read out and put to use through a two-step process. First, in transcription, segments of the DNA sequence are used to guide the synthesis of molecules of RNA. Then, in translation, the RNA molecules are used to guide the synthesis of molecules of protein.
 
@@ -68,13 +68,13 @@ In RNA, the backbone is formed of a slightly different sugar from that of DNA - 
 
 The same segment of DNA can be used repeatedly to guide the synthesis of many identical RNA molecules. Thus, whereas the cell's archive of genetic information in the form of DNA is fixed and sacrosanct, these RNA transcripts are mass-produced and disposable. These transcripts function as intermediates in the transfer of genetic information. Most notably, they serve as _messenger RNA (mRNA)_ molecules that guide the synthesis of proteins according to the genetic instructions stored in the DNA.  
 
-![How genetic information is broadcast for use inside the cell](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-5.png)  
+![How genetic information is broadcast for use inside the cell](https://raw.githubusercontent.com/anushikhov/bioinformatics/molecular-biology/img/1-5.png)  
 
 Each cell contains a fixed set of DNA molecules - its archive of genetic information. A given segment of this DNA guides the synthesis of many identical RNA transcripts, which serve as working copies of the information stored in the archive. Many different sets of RNA molecules can be made by transcribing different parts of a cell's DNA sequences, allowing different types of cells to use the same information store differently.  
 
 RNA molecules have distinctive structures that can also give them other specialized chemical capabilities. Being single-stranded, their backbone is flexible, so that the polymer chain can bend back on itself to allow one part of the molecule to form weak bonds with another part of the same molecule. This occurs when segments of the sequence are locally complementary: a ...GGGG... segment, for example, will tend to associate with a ...CCCC... segment. These types of internal associations can cause an RNA chain to fold up into a specific shape that is dictated by its sequence. The shape of the RNA molecule, in turn, may enable it to recognize other molecules by binding to them selectively - and even, in certain cases, to catalyze chemical changes in the molecules that are bound. 
 
-![The conformation of an RNA molecule](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-6.png)  
+![The conformation of an RNA molecule](https://raw.githubusercontent.com/anushikhov/bioinformatics/molecular-biology/img/1-6.png)  
 
 (A) Nucleotide pairing between different regions of the same RNA polymer chain causes the molecule to adopt a distinctive shape.  
 
@@ -87,18 +87,17 @@ Protein molecules, like DNA and RNA molecules, are long unbranched polymer chain
 
 The monomers of protein, the amino acids, are quite different from those of DNA and RNA, and there are 20 types instead of 4. Each amino acid is built around the same core structure through which it can be linked in a standard way to any other amino acid in the set; attached to this core is a side group that gives each amino acid a distinctive chemical character. Each of the protein molecules is a polypeptide, created by joining its amino acids in a particular sequence. Through billions of years of evolution, this sequence has been selected to give the protein a useful function. Thus, by folding into a precise three-dimensional form with reactive sites on its surface, these amino-acid polymers can bind with high specificity to other molecules and can act as enzymes to catalyze reactions that make or break covalent bonds. In this way they direct the vast majority of chemical processes in the cell.
 
-![How a protein molecule acts as a catalyst for a chemical reaction](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-7.png)  
+![How a protein molecule acts as a catalyst for a chemical reaction](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-7.png)  
 
 Proteins have many other functions as well - maintaining structures, generating movements, sensing signals, and so on - each protein molecule performing a specific function according to its own genetically specified sequence of amino acids. Proteins, above all, are the main molecules that put the cell's genetic information into action.  
 
 Thus, polynucleotides specify the amino acid sequence of proteins. Proteins, in turn, catalyze many chemical reactions, including those by which new DNA molecules are synthesized. **From the most fundamental point of view, a living cell is a self-replicating collection of catalysts that takes in food, processes this food to derive both the building blocks and energy needed to make more catalysts, and discards the materials left over as waste.** A feedback loop that connects proteins and polynucleotides forms the basis for this autocatalytic, self-reproducing behavior of living organisms.
 
-
 ### All cells translate RNA into protein the same way  
 
 The translation of genetic information from the 4-letter alphabet of polynucleotides into the 20-letter alphabet of proteins is a complex process. The information in the sequence of a messenger RNA molecule is read out in groups of three nucleotides at a time: each triplet of nucleotides, or _codon_, specifies a single amino acid in a corresponding protein. Since the number of dintinct triplets that can be foremd from four nucleotides is 4^3, there are 64 possible codons, all of which occur in nature. However, there are only 20 naturally occurring amino acids. That means thhere are necessarily many cases in which several codons correspond to the same amino acid. This genetic code is read out by a special class of small RNA molecules, the _transfer RNAs_ (tRNAs). Each type of tRNA becomes attached at one end to a specific amino acid, and displays at its other end a specific sequence of three nucleotides - an anticodon - that enables it to recognize, through base-pairing, a particular codon or subset of codons in mRNA. The intricate chemcistry that enables these tRNAs to translate a specific sequcne of A, C, G, and U nucleotides in an mRNA molecule into a specific sequence of amino acids in a protein molecule occurs on the ribosome, a large multimolecular machine composed of both protein and ribosomal RNA.
 
-![Life as an autocatalytic process](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-8.png)  
+![Life as an autocatalytic process](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-8.png)  
 
 (A) The cell as a self-replicating collection of catalysts.
 
@@ -134,11 +133,11 @@ Although all cells function as biochemical factories of a broadly similar type, 
 
 Another universal feature is that each cell is enclosed by a plasma membrane. Without a plasma membrane, the cell could not maintain its integrity as a coordinated chemical system. The molecules that form a membrane have the simple physicochemical porperty of being amphiphilic - that is, consisting of one part that is hydrophobic (water-insoluble) and another part that is hydrophilic (water-soluble). Such molecules placed in water aggregate spontaneously, arranging their hydrophobic portions to be as much incontact with one another as possible to hide them from the water, while keeping their hydrophilic portions exposed. Amphiphilic molecules of appropriate shape, such as the phospholipid molecules that comprise most of the plasma membrane, spontaneously aggregate in water to create a bilayer that forms small closed vesicles. 
 
-![Vesicle](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-9.png)  
+![Vesicle](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-9.png)  
 
 The phenomenon can be demonstrated in a test tube by simply mixing phospholipids and water together; under appropriate conditions, small vesicles form whose aqueous contents are isolated from the external medium. 
 
-![Formation of a membrane by amphiphilic phospholipid molecules](https://raw.githubusercontent.com/anushikhov/molecular-biology/master/img/1-9a.png)  
+![Formation of a membrane by amphiphilic phospholipid molecules](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biolog/img/1-9a.png)  
 
 Phospholipids have a hydrophilic (water-loving, phosphate) head group and a hydrophobic (water-avoiding, hydrocarbon) tail. At an interface between oil and water, they arrange themselves as a single sheet with their head groups facing the water and their tail groups facing the oil. But when immersed in water, they aggregate to form bilayers enclosing aqueous compartments, as indicated. 
 
