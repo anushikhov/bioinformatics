@@ -48,7 +48,7 @@ The mechanisms that make life possible depend on the structure of the double-str
 
 The bonds between the base pairs are weak compared with the sugar-phosphate links, and this allows the two DNA strands to be pulled apart without breakage of their backbones. Each strand then can serve as a template for the synthesis of a fresh DNA strand complementary to itself - a fresh copy, that is, of the hereditary information.   
 
-![The copying of genetic information by DNA replication](https://raw.githubusercontent.com/anushikhov/bioinformatics/molecular-biology/img/1-3.png)  
+![The copying of genetic information by DNA replication](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-3.png)  
 
 The two strands of a DNA double helix are pulled apart, and each serves as a template for synthesis of a new complementary strand.  
 
@@ -68,13 +68,13 @@ In RNA, the backbone is formed of a slightly different sugar from that of DNA - 
 
 The same segment of DNA can be used repeatedly to guide the synthesis of many identical RNA molecules. Thus, whereas the cell's archive of genetic information in the form of DNA is fixed and sacrosanct, these RNA transcripts are mass-produced and disposable. These transcripts function as intermediates in the transfer of genetic information. Most notably, they serve as _messenger RNA (mRNA)_ molecules that guide the synthesis of proteins according to the genetic instructions stored in the DNA.  
 
-![How genetic information is broadcast for use inside the cell](https://raw.githubusercontent.com/anushikhov/bioinformatics/molecular-biology/img/1-5.png)  
+![How genetic information is broadcast for use inside the cell](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-5.png)  
 
 Each cell contains a fixed set of DNA molecules - its archive of genetic information. A given segment of this DNA guides the synthesis of many identical RNA transcripts, which serve as working copies of the information stored in the archive. Many different sets of RNA molecules can be made by transcribing different parts of a cell's DNA sequences, allowing different types of cells to use the same information store differently.  
 
 RNA molecules have distinctive structures that can also give them other specialized chemical capabilities. Being single-stranded, their backbone is flexible, so that the polymer chain can bend back on itself to allow one part of the molecule to form weak bonds with another part of the same molecule. This occurs when segments of the sequence are locally complementary: a ...GGGG... segment, for example, will tend to associate with a ...CCCC... segment. These types of internal associations can cause an RNA chain to fold up into a specific shape that is dictated by its sequence. The shape of the RNA molecule, in turn, may enable it to recognize other molecules by binding to them selectively - and even, in certain cases, to catalyze chemical changes in the molecules that are bound. 
 
-![The conformation of an RNA molecule](https://raw.githubusercontent.com/anushikhov/bioinformatics/molecular-biology/img/1-6.png)  
+![The conformation of an RNA molecule](https://raw.githubusercontent.com/anushikhov/bioinformatics/master/molecular-biology/img/1-6.png)  
 
 (A) Nucleotide pairing between different regions of the same RNA polymer chain causes the molecule to adopt a distinctive shape.  
 
